@@ -50,7 +50,7 @@ test();
 - `getBalance({ address: "...", inSatoshi: true })`
 
   - `address: Wallet public address`
-  - `isSatoshi: true || false`
+  - `inSatoshi: true || false`
 
 - `getWallet({ address: "..." })`
   - Object:
