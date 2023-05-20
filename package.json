@@ -1,6 +1,18 @@
 {
   "name": "bitcoin-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "bitcore-lib",
+    "bitcoin development",
+    "bitcoin wallet",
+    "bitcoin nodejs",
+    "bitcoin javascript",
+    "blockchain",
+    "bitcoin account",
+    "ethereum"
+  ],
   "main": "index.js",
   "author": "viniciuswkf <viniciusludv@gmail.com>",
   "license": "MIT",
